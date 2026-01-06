@@ -1,16 +1,18 @@
 ## Hi there 👋
+Hi, I’m Shashi 👋
 
-<!--
-**shashibhushan21/shashibhushan21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a full-stack developer and the founder of SemesterExam.com.
+I enjoy building real products, learning by doing, and improving systems step by step.
 
-Here are some ideas to get you started:
+Most of my work focuses on:
+- Web and software development
+- Education-focused platforms
+- Scalable full-stack applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Alongside my own products, I also work on client and internal projects through Tech Field Solution.
+
+I believe good software should be simple, reliable, and built for real users — not just demos.
+
+You can Visit:- 👉 SemesterExam.com
+
+Portfolio:- 👉 shashibhusan.me
