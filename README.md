@@ -1,4 +1,4 @@
-## Hi there 👋
+
 Hi, I’m Shashi 👋
 
 I’m a full-stack developer and the founder of SemesterExam.com.
