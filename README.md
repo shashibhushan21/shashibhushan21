@@ -91,7 +91,7 @@ My repositories include:
 
  🌍 Portfolio: https://shashibhushan.me  
  🏢 Tech Field Solution: https://techfieldsolution.com  
- 🎓 SemesterExam: https://semesterexam.com  
+ 🎓 SemesterExam: https://www.semesterexam.com  
  🧭 Day Tour Guides: https://daytourguides.com  
 
 
