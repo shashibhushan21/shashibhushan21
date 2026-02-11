@@ -139,7 +139,7 @@ Includes:
 ## 🌐 Online Presence
 
 - 🌍 Portfolio: https://shashibhushan.me
-- 📔 https://www.semesterexam.com/blog
+- 📔 Blog: https://www.semesterexam.com/blog
 - 💼 LinkedIn: https://www.linkedin.com/in/shashi-tech/  
 - 🐙 GitHub: https://github.com/shashibhushan21  
 - 📝 Dev.to: https://dev.to/maibhushan  
