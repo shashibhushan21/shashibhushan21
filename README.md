@@ -10,7 +10,7 @@ My portfolio:
 
 ---
 
-## 🚀 What I Do
+##  What I Do
 
 I work across the full development lifecycle:
 
@@ -74,7 +74,7 @@ Business-focused digital system.
 
 ---
 
-### 🎯 EruditeEducare.com  
+###  EruditeEducare.com  
 Client Project  
 
 Complete web development and deployment.
