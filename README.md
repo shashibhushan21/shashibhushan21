@@ -1,116 +1,139 @@
-Hi, I’m Shashi Bhushan Kumar
+Shashi Bhushan Kumar
+Full Stack Developer | Web & Mobile App Developer | Product Builder
+Hi, I’m Shashi Bhushan Kumar, a Full Stack Developer specializing in building scalable web applications, mobile apps, and production-ready digital systems.
 
-I’m a full-stack developer, product builder, and founder** who focuses on creating **real, production-ready software** used by real people.
+I focus on real-world software — systems that are deployed, maintained, and used by actual users.
 
-I’m the founder of **SemesterExam.com** and **TechFieldSolution.com**, and I actively build, deploy, and maintain live systems — not just demos, tutorials, or short-term projects.
+My portfolio:
 
-I believe software should solve real problems, scale over time, and stay simple under pressure.
+👉 https://shashibhushan.me
 
-What I Actually Do
+What I Do
+I work across the full development lifecycle:
 
-I work end-to-end on products — from idea to deployment.
+System architecture design
+Frontend development
+Backend API development
+RESTful services
+Authentication systems (JWT, session-based auth)
+Admin dashboards & internal tools
+Database design (SQL concepts)
+React Native mobile applications
+VPS setup & deployment
+Production monitoring & maintenance
+SEO implementation & Google Search Console setup
+I build both Web Applications and Mobile Applications with a focus on scalability and clean architecture.
 
-That includes:
-  Designing system architecture
-  Writing clean, maintainable code
-  Building full-stack applications
-  Shipping features to production
-  Maintaining and improving live platforms
+🏗️ Platforms & Projects
+🎓 SemesterExam.com
+Founder & Developer
 
-Most of my learning comes from building and running real systems, not just experimenting.
-
-Companies & Products I’ve Built
-
-SemesterExam.com  
-An education-focused platform built for students and learners.
+An education-focused platform built for students.
 
 I handle:
-  Product planning
-  Full-stack development
-  Feature iteration
-  System maintenance
 
+Full-stack development
+Feature planning & iteration
+Deployment & infrastructure
+SEO & performance optimization
 👉 https://semesterexam.com
 
- Tech Field Solution  
-A technology and digital solutions company where I work on client projects and internal systems.
+🌍 TechFieldSolution.com
+Project
 
-Work includes:
-  Business websites
-  Web applications
-  Software solutions
-  Scalable digital systems
+Business and web solution platform.
 
 👉 https://techfieldsolution.com
 
- DayTourGuides.com  
-A travel-focused platform designed to connect users with tour and guide services.
+🧭 DayTourGuides.com
+Client Project
+
+Travel and guide booking platform.
 
 👉 https://daytourguides.com
 
- How I Think About Software
+🌐 Worksani.com
+Client Project
 
-I strongly believe:
+Business-focused digital system.
 
-> Good software is not about fancy features 
-> it’s about clarity, reliability, and long-term value.
+👉 https://worksani.com
+
+🎯 EruditeEducare.com
+Client Project
+
+Complete web development and deployment.
+
+👉 https://eruditeeducare.com
+
+📱 Web & Mobile Development
+Web Development
+Full-stack web systems
+REST APIs
+Admin panels
+SEO-optimized architecture
+Production deployment
+Mobile Development
+React Native applications
+API integration
+Authentication flows
+Cross-platform builds
+🛠 Technical Stack
+HTML, CSS, JavaScript
+React concepts
+React Native
+Backend APIs
+JWT Authentication
+SQL database concepts
+VPS & server deployment
+SEO fundamentals
+Google Search Console
+Everything here reflects hands-on implementation.
+
+📂 GitHub & Code
+👉 GitHub: https://github.com/shashibhushan21
+
+Includes:
+
+Full-stack applications
+Backend services
+Real-world projects
+Production-ready experiments
+✍️ Technical Writing
+📝 Dev.to: https://dev.to/maibhushan
+📚 GeeksforGeeks: https://www.geeksforgeeks.org/profile/maibhushan
+📖 Medium: https://medium.com/@maibhushan
+🌐 Online Presence
+🌍 Portfolio: https://shashibhushan.me
+💼 LinkedIn: https://www.linkedin.com/in/shashi-tech/
+🐙 GitHub: https://github.com/shashibhushan21
+📝 Dev.to: https://dev.to/maibhushan
+📚 GeeksforGeeks: https://www.geeksforgeeks.org/profile/maibhushan
+📖 Medium: https://medium.com/@maibhushan
+📸 Instagram: https://www.instagram.com/shashibhushan.tech/
+📘 Facebook: https://www.facebook.com/shashibhushan.fb
+🐦 X (Twitter): https://x.com/maibhushan
+💡 Engineering Approach
+I believe:
+
+Good software should be simple, scalable, and maintainable.
 
 My approach:
-  Build simple first
-  Improve continuously
-  Avoid unnecessary complexity
-  Design for real users, not portfolios
 
+Build clean architecture
+Avoid unnecessary complexity
+Optimize gradually
+Focus on long-term maintainability
+Deliver production-ready systems
 
-Technical Focus (Hands-On)
+Professional Focus
+Full Stack Web Development
+Mobile App Development (React Native)
+SEO-focused digital systems
+VPS deployment & infrastructure
+Real-world product building
+I focus on building systems — not just projects.
 
-I actively work with:
-  Frontend development (HTML, CSS, JavaScript)
-  Backend systems and APIs
-  Full-stack application architecture
-  Authentication & dashboards
-  Admin panels & internal tools
-  Production deployment & maintenance
+Shashi Bhushan Kumar
 
-Everything you see here reflects **real implementation**, not theoretical knowledge.
-
-
- 📂 Projects & Code
-
-You can explore my work here:  
-👉 **GitHub:** https://github.com/shashibhushan21
-
-My repositories include:
-  Web applications
-  Backend services
-  Utility tools
-  Practice projects with real-world intent
-  Production-oriented experiments
-
- 🌐 Portfolio & Official Links
-
- 🌍 Portfolio: https://shashibhushan.me  
- 🏢 Tech Field Solution: https://techfieldsolution.com  
- 🎓 SemesterExam: https://www.semesterexam.com  
- 🧭 Day Tour Guides: https://daytourguides.com  
-
-
-## 🔗 Connect With Me
-
- 💼 LinkedIn: https://www.linkedin.com/in/shashi-tech/  
- 📸 Instagram: https://www.instagram.com/shashibhushan.tech/  
- 🐦 X (Twitter): https://x.com/maibhushan  
-
-
-##  Final Words
-
-I’m not chasing hype or shortcuts.
-
-I’m focused on:
-  Building solid systems
-  Learning through real work
-  Creating products that last
-
-If you value **practical engineering, real products, and long-term thinking**, you’ll probably understand my work.
-
-Thanks for visiting 👋
+Full Stack Developer | Web & Mobile App Builder
