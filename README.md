@@ -99,20 +99,29 @@ Full-stack applications
 Backend services
 Real-world projects
 Production-ready experiments
-✍️ Technical Writing
-📝 Dev.to: https://dev.to/maibhushan
-📚 GeeksforGeeks: https://www.geeksforgeeks.org/profile/maibhushan
-📖 Medium: https://medium.com/@maibhushan
-🌐 Online Presence
-🌍 Portfolio: https://shashibhushan.me
-💼 LinkedIn: https://www.linkedin.com/in/shashi-tech/
-🐙 GitHub: https://github.com/shashibhushan21
-📝 Dev.to: https://dev.to/maibhushan
-📚 GeeksforGeeks: https://www.geeksforgeeks.org/profile/maibhushan
-📖 Medium: https://medium.com/@maibhushan
-📸 Instagram: https://www.instagram.com/shashibhushan.tech/
-📘 Facebook: https://www.facebook.com/shashibhushan.fb
-🐦 X (Twitter): https://x.com/maibhushan
+
+---
+
+## ✍️ Technical Writing
+
+- 📝 Dev.to: https://dev.to/maibhushan  
+- 📚 GeeksforGeeks: https://www.geeksforgeeks.org/profile/maibhushan  
+- 📖 Medium: https://medium.com/@maibhushan  
+
+---
+
+## 🌐 Online Presence
+
+- 🌍 Portfolio: https://shashibhushan.me  
+- 💼 LinkedIn: https://www.linkedin.com/in/shashi-tech/  
+- 🐙 GitHub: https://github.com/shashibhushan21  
+- 📝 Dev.to: https://dev.to/maibhushan  
+- 📚 GeeksforGeeks: https://www.geeksforgeeks.org/profile/maibhushan  
+- 📖 Medium: https://medium.com/@maibhushan  
+- 📸 Instagram: https://www.instagram.com/shashibhushan.tech/  
+- 📘 Facebook: https://www.facebook.com/shashibhushan.fb  
+- 🐦 X (Twitter): https://x.com/maibhushan  
+
 💡 Engineering Approach
 I believe:
 
