@@ -6,7 +6,7 @@ Hi, I’m **Shashi Bhushan Kumar**, a Full Stack Developer specializing in build
 I focus on real-world software — systems that are deployed, maintained, and used by actual users.
 
 My portfolio:  
-👉 https://shashibhushan.me  
+👉 https://www.shashibhushan.me  
 
 ---
 
@@ -43,7 +43,7 @@ I handle:
 - Deployment & infrastructure  
 - SEO & performance optimization  
 
-👉 https://semesterexam.com  
+👉 https://www.semesterexam.com  
 
 ---
 
