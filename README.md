@@ -1,182 +1,244 @@
-# Shashi Bhushan Kumar  
-### Full Stack Developer | Web & Mobile App Developer | Product Builder
+# Shashi Bhushan Kumar
+### Full Stack Developer | Product Builder | Open Source Contributor
 
-Hi, I’m **Shashi Bhushan Kumar**, a Full Stack Developer specializing in building scalable web applications, mobile apps, and production-ready digital systems.
+Hi, I'm **Shashi Bhushan Kumar**, a Full Stack Developer focused on building **scalable web applications, mobile apps, and production-ready digital platforms**.
 
-I focus on real-world software — systems that are deployed, maintained, and used by actual users.
+I enjoy turning ideas into real systems used by actual users.
 
-My portfolio:  
-👉 https://www.shashibhushan.me  
-
----
-
-##  What I Do
-
-I work across the full development lifecycle:
-
-- System architecture design  
-- Frontend development  
-- Backend API development  
-- RESTful services  
-- Authentication systems (JWT, session-based auth)  
-- Admin dashboards & internal tools  
-- Database design (SQL concepts)  
-- React Native mobile applications  
-- VPS setup & deployment  
-- Production monitoring & maintenance  
-- SEO implementation & Google Search Console setup  
-
-I build both **Web Applications** and **Mobile Applications** with a focus on scalability and clean architecture.
+🌐 Portfolio:  
+https://www.shashibhushan.me
 
 ---
 
-## 🏗️ Platforms & Projects
+#  About Me
 
-### 🎓 SemesterExam.com  
-Founder & Developer  
+I work across the **entire software development lifecycle**:
 
-An education-focused platform built for students.
+- System architecture & feature planning
+- Frontend development
+- Backend API development
+- Authentication systems
+- Database design
+- Mobile app development
+- Deployment & infrastructure
+- Production monitoring
+- SEO optimization
 
-I handle:
-- Full-stack development  
-- Feature planning & iteration  
-- Deployment & infrastructure  
-- SEO & performance optimization  
-
-👉 https://www.semesterexam.com  
+My focus is building **real-world software products**, not just demo projects.
 
 ---
 
-### 🌍 TechFieldSolution.com  
-Project  
+# 🏆 Open Source Contribution
 
+I actively contribute to open-source projects.
+
+Recently, my **first pull request was successfully merged into the Forem project**, the platform that powers **DEV Community**, used by thousands of developers worldwide.
+
+### Contribution
+**Fix reaction counters under rapid toggling**
+
+This contribution improved how reaction counts are handled to ensure they remain accurate and never become negative during rapid user interactions.
+
+Issue  
+https://github.com/forem/forem/issues/22803
+
+Pull Request  
+https://github.com/forem/forem/pull/22865
+
+---
+
+# 🏗️ Platforms & Projects
+
+## 🎓 SemesterExam.com
+Founder & Full Stack Developer  
+
+An education platform designed to provide **short notes and learning resources for university students**.
+
+Responsibilities:
+
+- Full-stack architecture
+- Feature development
+- Infrastructure & deployment
+- SEO optimization
+- Platform scaling
+
+Website  
+https://www.semesterexam.com
+
+---
+
+## 🌍 TechFieldSolution.com
 Business and web solution platform.
 
-👉 https://techfieldsolution.com  
+Website  
+https://techfieldsolution.com
 
 ---
 
-### 🧭 DayTourGuides.com  
-Client Project  
+## 🧭 DayTourGuides.com
+Travel and tour guide booking platform.
 
-Travel and guide booking platform.
-
-👉 https://daytourguides.com  
+Website  
+https://daytourguides.com
 
 ---
 
-### 🌐 Worksani.com  
-Client Project  
-
+## 🌐 Worksani.com
 Business-focused digital system.
 
-👉 https://worksani.com  
+Website  
+https://worksani.com
 
 ---
 
-###  EruditeEducare.com  
-Client Project  
+## 🎓 EruditeEducare.com
+Complete website development and deployment.
 
-Complete web development and deployment.
-
-👉 https://eruditeeducare.com  
-
----
-
-## 📱 Web & Mobile Development
-
-### Web Development
-- Full-stack web systems  
-- REST APIs  
-- Admin panels  
-- SEO-optimized architecture  
-- Production deployment  
-
-### Mobile Development
-- React Native applications  
-- API integration  
-- Authentication flows  
-- Cross-platform builds  
+Website  
+https://eruditeeducare.com
 
 ---
 
-## 🛠 Technical Stack
+# 💻 Web Development
 
-- HTML, CSS, JavaScript  
-- React concepts  
-- React Native  
-- Backend APIs  
-- JWT Authentication  
-- SQL database concepts  
-- VPS & server deployment  
-- SEO fundamentals  
-- Google Search Console  
+I build full-stack web applications including:
 
-Everything here reflects hands-on implementation.
+- Scalable web systems
+- RESTful APIs
+- Admin dashboards
+- Authentication systems
+- SEO optimized architecture
+- Production deployment
 
 ---
 
-## 📂 GitHub & Code
+# 📱 Mobile Development
 
-👉 GitHub: https://github.com/shashibhushan21  
+Mobile applications built with **React Native**:
 
-Includes:
-- Full-stack applications  
-- Backend services  
-- Real-world projects  
-- Production-ready experiments  
-
----
-
-## ✍️ Technical Writing
-
-- 📝 Dev.to: https://dev.to/maibhushan  
-- 📚 GeeksforGeeks: https://www.geeksforgeeks.org/profile/maibhushan  
-- 📖 Medium: https://medium.com/@maibhushan  
+- Cross-platform mobile apps
+- API integration
+- Authentication flows
+- Real-time data handling
 
 ---
 
-## 🌐 Online Presence
+# 🛠 Tech Stack
 
-- 🌍 Portfolio: https://shashibhushan.me
-- 📔 Blog: https://www.semesterexam.com/blog
-- 💼 LinkedIn: https://www.linkedin.com/in/shashi-tech/  
-- 🐙 GitHub: https://github.com/shashibhushan21  
-- 📝 Dev.to: https://dev.to/maibhushan  
-- 📚 GeeksforGeeks: https://www.geeksforgeeks.org/profile/maibhushan  
-- 📖 Medium: https://medium.com/@maibhushan  
-- 📸 Instagram: https://www.instagram.com/shashibhushan.tech/  
-- 📘 Facebook: https://www.facebook.com/shashibhushan.fb  
-- 🐦 X (Twitter): https://x.com/maibhushan  
+### Frontend
+- HTML
+- CSS
+- JavaScript
+- React Concepts
+
+### Backend
+- REST APIs
+- Authentication systems
+- Server-side logic
+
+### Mobile
+- React Native
+
+### Infrastructure
+- VPS deployment
+- Production monitoring
+
+### Other
+- SQL database concepts
+- SEO fundamentals
+- Google Search Console
 
 ---
 
-## 💡 Engineering Approach
+# 📂 GitHub Work
 
-I believe:
+GitHub contains:
+
+- Full-stack web applications
+- Backend services
+- Mobile applications
+- Real-world production projects
+- Experimental builds
+
+GitHub Profile  
+https://github.com/shashibhushan21
+
+---
+
+# ✍️ Technical Writing
+
+I also write technical content and share my learning journey.
+
+Dev.to  
+https://dev.to/maibhushan
+
+GeeksforGeeks  
+https://www.geeksforgeeks.org/profile/maibhushan
+
+Medium  
+https://medium.com/@maibhushan
+
+---
+
+# 🌐 Online Presence
+
+Portfolio  
+https://shashibhushan.me
+
+LinkedIn  
+https://www.linkedin.com/in/shashi-tech/
+
+GitHub  
+https://github.com/shashibhushan21
+
+Dev.to  
+https://dev.to/maibhushan
+
+GeeksforGeeks  
+https://www.geeksforgeeks.org/profile/maibhushan
+
+Medium  
+https://medium.com/@maibhushan
+
+Instagram  
+https://www.instagram.com/shashibhushan.tech/
+
+Twitter (X)  
+https://x.com/maibhushan
+
+---
+
+# 💡 Engineering Philosophy
 
 > Good software should be simple, scalable, and maintainable.
 
-My approach:
-- Build clean architecture  
-- Avoid unnecessary complexity  
-- Optimize gradually  
-- Focus on long-term maintainability  
-- Deliver production-ready systems  
+My development approach:
+
+- Clean architecture
+- Scalable systems
+- Maintainable code
+- Performance optimization
+- Real-world usability
 
 ---
 
-## 🎯 Professional Focus
+# 🎯 Professional Focus
 
-- Full Stack Web Development  
-- Mobile App Development (React Native)  
-- SEO-focused digital systems  
-- VPS deployment & infrastructure  
-- Real-world product building  
+I specialize in building:
 
-I focus on building systems — not just projects.
+- Full Stack Web Applications
+- Mobile Apps (React Native)
+- SEO-focused digital platforms
+- Scalable backend systems
+- Production-ready web products
+
+I focus on building **systems and products — not just projects.**
 
 ---
 
-**Shashi Bhushan Kumar**  
-Full Stack Developer | Web & Mobile App Builder
+# 👨‍💻 Developer
+
+**Shashi Bhushan Kumar**
+
+Full Stack Developer  
+Web & Mobile Application Builder
