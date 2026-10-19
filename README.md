@@ -1,205 +1,72 @@
-# Shashi Bhushan Kumar
+<h1 align="center">Shashi Bhushan Kumar</h1>
 
-### Full Stack Developer | Product Builder | Open Source Contributor
+<p align="center">
+  <b>Full Stack Developer · SDE-I at Tech Field Solution</b><br>
+  Bhubaneswar, India
+</p>
 
-Hi, I'm **Shashi Bhushan Kumar**, a Full Stack Developer focused on building **scalable web applications, mobile apps, and production-ready digital platforms**.
-
-I enjoy turning ideas into real systems used by actual users.
-
-🌐 Portfolio:
-https://www.shashibhushan.me
-
----
-
-# About Me
-
-I work across the **entire software development lifecycle**:
-
-* System architecture & feature planning
-* Frontend development
-* Backend API development
-* Authentication systems
-* Database design
-* Mobile app development
-* Deployment & infrastructure
-* Production monitoring
-* SEO optimization
-
-My focus is building **real-world software products**, not just demo projects.
+<p align="center">
+  <a href="https://www.shashibhushan.me"><img src="https://img.shields.io/badge/Portfolio-shashibhushan.me-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://github.com/shashibhushan21"><img src="https://img.shields.io/badge/GitHub-shashibhushan21-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:shashicoeb@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
 ---
 
-# 🏆 Open Source Contribution
-
-I actively contribute to open-source projects.
-
-Recently, my **first pull request was successfully merged into the Forem project**, the platform that powers DEV Community.
-
-### Contribution
-
-**Fix reaction counters under rapid toggling**
-
-* Improved reaction handling logic
-* Prevented negative counts during rapid interactions
-
-Issue
-https://github.com/forem/forem/issues/22803
-
-Pull Request
-https://github.com/forem/forem/pull/22865
-
----
-
-# 🏗️ Platforms & Projects
-
-## 🎓 SemesterExam.com
-
-**Founder & Full Stack Developer**
-
-An education platform designed to provide **short notes and learning resources for university students**.
-
-Responsibilities:
-
-* Full product ownership
-* Full-stack architecture
-* Feature development
-* Infrastructure & deployment
-* SEO optimization
-* Platform scaling
-
-Website
-https://www.semesterexam.com
-
----
-
-## 🏢 TechFieldSolution.com
-
-**Co-Founder & Developer**
-
-A business and web solutions platform delivering client-based software systems.
-
-Website
-https://techfieldsolution.com
-
----
-
-## 🧭 DayTourGuides.com
-
-**Full Stack Developer (Client Project)**
-
-A travel and tour booking platform.
-
-Responsibilities:
-
-* Full-stack development
-* API design
-* Authentication system
-* Deployment
-
-Website
-https://daytourguides.com
-
----
-
-## 🌐 Worksani.com
-
-**Full Stack Developer (Client Project)**
-
-A business-focused digital system.
-
----
-
-## 🎓 EruditeEducare.com
-
-**Full Stack Developer (Client Project)**
-
-Complete website development and deployment for an education platform.
-
----
-
-# 💻 Web Development
-
-I build:
-
-* Scalable web systems
-* REST APIs
-* Admin dashboards
-* Authentication systems
-* SEO-optimized architecture
-* Production deployments
-
----
-
-# 📱 Mobile Development
-
-* Cross-platform apps using React Native
-* API integration
-* Authentication flows
-* Real-time data handling
-
----
-
-# 🛠 Tech Stack
-
-### Frontend
-
-* HTML, CSS, JavaScript
-* React
-
-### Backend
-
-* REST APIs
-* Authentication systems
-* Server-side logic
-
-### Mobile
-
-* React Native
-
-### Infrastructure
-
-* VPS deployment
-* Production monitoring
-
-### Other
-
-* SQL concepts
-* SEO fundamentals
-* Google Search Console
-
----
-
-# 📂 GitHub Work
-
-Includes:
-
-* Full-stack apps
-* Backend systems
-* Mobile applications
-* Production-grade projects
-
-GitHub
-https://github.com/shashibhushan21
-
----
-
-# 💡 Engineering Philosophy
-
-> Good software should be simple, scalable, and maintainable.
-
----
-
-# 🎯 Professional Focus
-
-* Full Stack Web Applications
-* Mobile Apps (React Native)
-* SEO-focused platforms
-* Scalable backend systems
-* Production-ready products
-
----
-
-# 👨‍💻 Developer
-
-**Shashi Bhushan Kumar**
-Full Stack Developer | Product Builder
+## About
+
+I'm a Software Developer (SDE-I) at [Tech Field Solution](https://techfieldsolution.com), where I build web and mobile products for clients. I also run my own product, [SemesterExam.com](https://www.semesterexam.com). My work covers the whole stack, from APIs and authentication to deployment and search optimization.
+
+ **Open to freelance and full-time opportunities.**
+
+## Featured work
+
+| Project | Role | What it is |
+|---|---|---|
+| [**Doctor Help**](https://play.google.com/store/apps/details?id=com.doctorhelp.app) | Developer | Android app for booking doctor appointments, diagnostics and lab tests, with reminders |
+| [**VisitTemples.in**](https://visittemples.in/) | Developer | Online puja booking platform with temple and holy city guides, delivering the puja video on WhatsApp |
+| [**SemesterExam.com**](https://www.semesterexam.com) | Founder & Developer | Study notes platform for university students |
+| [**Tech Field Solution**](https://techfieldsolution.com) | Software Developer (SDE-I) | Web solutions company building software for clients |
+| [**DayTourGuides.com**](https://daytourguides.com) | Full Stack Developer | Tour booking platform: API, authentication, deployment |
+| [**Worksani.com**](https://worksani.com) | Full Stack Developer | Business web platform for a client |
+| [**EruditeEducare.com**](https://eruditeeducare.com) | Full Stack Developer | Education website, built and deployed for a client |
+
+## Open source
+
+Merged a fix into [Forem](https://github.com/forem/forem), the platform behind DEV Community, that stopped reaction counts from going negative during rapid toggling.
+([Issue #22803](https://github.com/forem/forem/issues/22803) · [PR #22865](https://github.com/forem/forem/pull/22865))
+
+## Tech stack
+
+<table>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td>React, JavaScript, HTML, CSS</td>
+    <td><img src="https://skillicons.dev/icons?i=react,js,html,css" alt="Frontend icons" /></td>
+  </tr>
+  <tr>
+    <td><b>Mobile</b></td>
+    <td>React Native</td>
+    <td><img src="https://skillicons.dev/icons?i=react" alt="React Native icon" /></td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td>REST APIs, authentication, SQL</td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend icons" /></td>
+  </tr>
+  <tr>
+    <td><b>Infrastructure</b></td>
+    <td>VPS deployment, production monitoring</td>
+    <td><img src="https://skillicons.dev/icons?i=linux,git,github" alt="Infrastructure icons" /></td>
+  </tr>
+  <tr>
+    <td><b>SEO</b></td>
+    <td>Technical SEO, Google Search Console</td>
+    <td><img src="https://img.shields.io/badge/Google_Search_Console-458CF5?logo=googlesearchconsole&logoColor=white" alt="Google Search Console" /></td>
+  </tr>
+</table>
+
+## Get in touch
+
+Looking for a developer for a full stack web app, a React Native mobile app, or an SEO-focused build?
+Reach me through my [portfolio](https://www.shashibhushan.me) or by [email](mailto:shashicoeb@gmail.com).
