@@ -11,8 +11,6 @@
   <a href="mailto:shashicoeb@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
----
-
 ## About
 
 I'm a Software Developer (SDE-I) at [Tech Field Solution](https://techfieldsolution.com), where I build web and mobile products for clients. I also run my own product, [SemesterExam.com](https://www.semesterexam.com). My work covers the whole stack, from APIs and authentication to deployment and search optimization.
