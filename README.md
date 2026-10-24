@@ -65,4 +65,4 @@ Merged a fix into [Forem](https://github.com/forem/forem), the platform behind D
 ## Get in touch
 
 Looking for a developer for a full stack web app, a React Native mobile app, or an SEO-focused build?
-Reach me through my [portfolio](https://www.shashibhushan.me) or by [email](mailto:shashicoeb@gmail.com).
+Reach me through my [linkedin]([https://www.linkedin.com/in/shashi-tech/)(https://www.linkedin.com/in/shashi-tech/)) or by [email](mailto:shashicoeb@gmail.com).
